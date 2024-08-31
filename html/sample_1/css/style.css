@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.nav-ul {
+    list-style: none; font-family:'Times New Roman', Times, serif ;
+    word-spacing: 1cm;
+    background-color: aqua;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav-ul li{
+    display: inline-block;
+}
+.nav-ul li a{
+    color: rgb(237, 5, 5);
+}
+#nav-ul-2{
+    color: blueviolet;
+    
+}
+.first-section{
+    background-color: blanchedalmond;
+}
+.second-section{
+    background-color: aqua;
+    margin-top: 10px;
+}
